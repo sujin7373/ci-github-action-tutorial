@@ -1,1 +1,1 @@
-GitHub Actions 실습
+GitHub Actions Tutorial
